@@ -1,7 +1,6 @@
 package ro.nicolaemariusghergu.loginjwt.service;
 
 import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.JwtParserBuilder;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.io.Decoders;
