@@ -18,3 +18,5 @@ COPY . .
 RUN mvn clean package -DskipTests
 
 WORKDIR target
+
+CMD ["java", "-jar", "login-jwt.jar"]
