@@ -30,6 +30,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+
         <!-- JWT Depedencies -->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
